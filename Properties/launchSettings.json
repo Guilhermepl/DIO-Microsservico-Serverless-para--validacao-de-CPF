@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Serverless_para_Validação_de_CPF": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7173",
+      "launchBrowser": false
+    }
+  }
+}
